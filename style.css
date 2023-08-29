@@ -15,3 +15,12 @@ header{
 
     color: rgb(rgb(255, 238, 0), rgb(0, rgb(255, 255, 255)), blue)
 }
+
+section {
+   
+    background: rgb(0, 0, 0);
+
+    padding-top: 80px;
+
+    padding-bottom: 80px;
+}
