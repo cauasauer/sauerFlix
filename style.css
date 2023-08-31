@@ -4,6 +4,10 @@ body{
     color: rgb(255, 0, 179);
 
     margin: 0px;
+
+    font-size: 20px; 
+
+    font-weight: 700;
 }
 
 header{
